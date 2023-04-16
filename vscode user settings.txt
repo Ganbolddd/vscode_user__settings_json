@@ -1,0 +1,25 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, Fira Code",
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 25,
+    "editor.cursorBlinking": "smooth",
+    "explorer.openEditors.visible": 0,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#263238",
+    },
+    "editor.minimap.enabled": false,
+    "explorer.sortOrder": "type",
+    "files.trimFinalNewlines": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2
+}
+/*
+auto rename tag
+bracket pair colorization toggler
+prettier-code formatter
+*/ 
